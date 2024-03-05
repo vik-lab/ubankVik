@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Playwright-specific files
+*.browser.log
+*.browser.user-data-dir
+
+# Playwright test output
+test-results/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Environment variables file
+.env
+
+# macOS metadata files
+.DS_Store
+
+# Editor backup files
+*~
+
+# Logs
+*.log
+
+# Compiled JavaScript files (if using TypeScript)
+*.js
+
+# Compiled CSS files
+*.css
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.svg
+
+# Archives
+*.zip
+*.tar.gz
