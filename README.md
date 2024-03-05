@@ -1,3 +1,5 @@
+# GIT URL: https://github.com/vik-lab/ubankVik
+
 # ubankVik
 
 ubankTest
